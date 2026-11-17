@@ -1,0 +1,13 @@
+N-Gram Configuration,Model,Accuracy,F1_Macro
+"Unigrams (1,1)",Decision Tree,0.8629,0.8632
+"Unigrams (1,1)",KNN (k=5),0.964,0.9643
+"Unigrams (1,1)",SVM (Linear),0.9753,0.9751
+"Unigrams (1,1)",Naive Bayes,0.9775,0.9767
+"Unigram + Bigram (1,2)",Decision Tree,0.8517,0.8524
+"Unigram + Bigram (1,2)",KNN (k=5),0.9708,0.9708
+"Unigram + Bigram (1,2)",SVM (Linear),0.9798,0.9796
+"Unigram + Bigram (1,2)",Naive Bayes,0.9798,0.9799
+"Unigram + Bigram + Trigram (1,3)",Decision Tree,0.8652,0.8652
+"Unigram + Bigram + Trigram (1,3)",KNN (k=5),0.9708,0.9707
+"Unigram + Bigram + Trigram (1,3)",SVM (Linear),0.9798,0.9796
+"Unigram + Bigram + Trigram (1,3)",Naive Bayes,0.9775,0.9775

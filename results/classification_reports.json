@@ -1,0 +1,182 @@
+{
+    "Decision Tree": {
+        "business": {
+            "precision": 0.7941176470588235,
+            "recall": 0.7941176470588235,
+            "f1-score": 0.7941176470588235,
+            "support": 102.0
+        },
+        "entertainment": {
+            "precision": 0.8918918918918919,
+            "recall": 0.8571428571428571,
+            "f1-score": 0.8741721854304636,
+            "support": 77.0
+        },
+        "politics": {
+            "precision": 0.8,
+            "recall": 0.8571428571428571,
+            "f1-score": 0.8275862068965517,
+            "support": 84.0
+        },
+        "sport": {
+            "precision": 0.92,
+            "recall": 0.9019607843137255,
+            "f1-score": 0.9108910891089109,
+            "support": 102.0
+        },
+        "tech": {
+            "precision": 0.8607594936708861,
+            "recall": 0.85,
+            "f1-score": 0.8553459119496856,
+            "support": 80.0
+        },
+        "accuracy": 0.851685393258427,
+        "macro avg": {
+            "precision": 0.8533538065243202,
+            "recall": 0.8520728291316526,
+            "f1-score": 0.8524226080888869,
+            "support": 445.0
+        },
+        "weighted avg": {
+            "precision": 0.8529807531895429,
+            "recall": 0.851685393258427,
+            "f1-score": 0.8520608173090783,
+            "support": 445.0
+        }
+    },
+    "K-Nearest Neighbours": {
+        "business": {
+            "precision": 0.97,
+            "recall": 0.9509803921568627,
+            "f1-score": 0.9603960396039604,
+            "support": 102.0
+        },
+        "entertainment": {
+            "precision": 0.9868421052631579,
+            "recall": 0.974025974025974,
+            "f1-score": 0.9803921568627451,
+            "support": 77.0
+        },
+        "politics": {
+            "precision": 0.9325842696629213,
+            "recall": 0.9880952380952381,
+            "f1-score": 0.9595375722543352,
+            "support": 84.0
+        },
+        "sport": {
+            "precision": 0.9900990099009901,
+            "recall": 0.9803921568627451,
+            "f1-score": 0.9852216748768473,
+            "support": 102.0
+        },
+        "tech": {
+            "precision": 0.9746835443037974,
+            "recall": 0.9625,
+            "f1-score": 0.9685534591194969,
+            "support": 80.0
+        },
+        "accuracy": 0.9707865168539326,
+        "macro avg": {
+            "precision": 0.9708417858261733,
+            "recall": 0.9711987522281641,
+            "f1-score": 0.9708201805434771,
+            "support": 445.0
+        },
+        "weighted avg": {
+            "precision": 0.9713004568789962,
+            "recall": 0.9707865168539326,
+            "f1-score": 0.9708508668638149,
+            "support": 445.0
+        }
+    },
+    "Support Vector Machine": {
+        "business": {
+            "precision": 0.98,
+            "recall": 0.9607843137254902,
+            "f1-score": 0.9702970297029703,
+            "support": 102.0
+        },
+        "entertainment": {
+            "precision": 0.9743589743589743,
+            "recall": 0.987012987012987,
+            "f1-score": 0.9806451612903225,
+            "support": 77.0
+        },
+        "politics": {
+            "precision": 0.9655172413793104,
+            "recall": 1.0,
+            "f1-score": 0.9824561403508771,
+            "support": 84.0
+        },
+        "sport": {
+            "precision": 0.9807692307692307,
+            "recall": 1.0,
+            "f1-score": 0.9902912621359223,
+            "support": 102.0
+        },
+        "tech": {
+            "precision": 1.0,
+            "recall": 0.95,
+            "f1-score": 0.9743589743589743,
+            "support": 80.0
+        },
+        "accuracy": 0.9797752808988764,
+        "macro avg": {
+            "precision": 0.9801290893015032,
+            "recall": 0.9795594601476955,
+            "f1-score": 0.9796097135678133,
+            "support": 445.0
+        },
+        "weighted avg": {
+            "precision": 0.9800619119999207,
+            "recall": 0.9797752808988764,
+            "f1-score": 0.9796959930901428,
+            "support": 445.0
+        }
+    },
+    "Multinomial Naive Bayes": {
+        "business": {
+            "precision": 0.9896907216494846,
+            "recall": 0.9411764705882353,
+            "f1-score": 0.964824120603015,
+            "support": 102.0
+        },
+        "entertainment": {
+            "precision": 0.9871794871794872,
+            "recall": 1.0,
+            "f1-score": 0.9935483870967742,
+            "support": 77.0
+        },
+        "politics": {
+            "precision": 0.9438202247191011,
+            "recall": 1.0,
+            "f1-score": 0.9710982658959537,
+            "support": 84.0
+        },
+        "sport": {
+            "precision": 1.0,
+            "recall": 0.9901960784313726,
+            "f1-score": 0.9950738916256158,
+            "support": 102.0
+        },
+        "tech": {
+            "precision": 0.975,
+            "recall": 0.975,
+            "f1-score": 0.975,
+            "support": 80.0
+        },
+        "accuracy": 0.9797752808988764,
+        "macro avg": {
+            "precision": 0.9791380867096147,
+            "recall": 0.9812745098039215,
+            "f1-score": 0.9799089330442717,
+            "support": 445.0
+        },
+        "weighted avg": {
+            "precision": 0.9803194898819605,
+            "recall": 0.9797752808988764,
+            "f1-score": 0.9797417469416452,
+            "support": 445.0
+        }
+    }
+}

@@ -1,0 +1,21 @@
+# Information Retrieval & Text Classification Requirements
+# Student: Sathish Kumar R (RA2411026050188)
+# SRM Institute of Science and Technology, Tiruchirappalli
+# Course: 21CSE377T - Information Retrieval | CLA-2 Task 2
+
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+scipy>=1.12.0
+nltk>=3.8.1
+matplotlib>=3.8.0
+seaborn>=0.13.0
+joblib>=1.3.2
+streamlit>=1.32.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+jupyter>=1.0.0
+nbformat>=5.9.0
+nbconvert>=7.14.0
+ipykernel>=6.29.0
+

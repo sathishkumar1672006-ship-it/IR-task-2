@@ -1,0 +1,19 @@
+Experiment,Parameter_k,Metric,Accuracy,Accuracy_Pct,F1_Macro
+KNN Sensitivity,1,cosine,0.9551,95.51,0.9549
+KNN Sensitivity,3,cosine,0.9798,97.98,0.9796
+KNN Sensitivity,5,cosine,0.9708,97.08,0.9708
+KNN Sensitivity,7,cosine,0.964,96.4,0.9637
+KNN Sensitivity,9,cosine,0.964,96.4,0.9633
+KNN Sensitivity,11,cosine,0.9685,96.85,0.9682
+KNN Sensitivity,15,cosine,0.9685,96.85,0.9682
+KNN Sensitivity,21,cosine,0.9685,96.85,0.9679
+KNN Sensitivity,31,cosine,0.973,97.3,0.9723
+KNN Sensitivity,1,euclidean,0.9551,95.51,0.9549
+KNN Sensitivity,3,euclidean,0.9798,97.98,0.9796
+KNN Sensitivity,5,euclidean,0.9708,97.08,0.9708
+KNN Sensitivity,7,euclidean,0.964,96.4,0.9637
+KNN Sensitivity,9,euclidean,0.964,96.4,0.9633
+KNN Sensitivity,11,euclidean,0.9685,96.85,0.9682
+KNN Sensitivity,15,euclidean,0.9685,96.85,0.9682
+KNN Sensitivity,21,euclidean,0.9685,96.85,0.9679
+KNN Sensitivity,31,euclidean,0.973,97.3,0.9723

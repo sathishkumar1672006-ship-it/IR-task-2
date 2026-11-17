@@ -1,0 +1,66 @@
+{
+    "Decision Tree": {
+        "cv_mean_accuracy": 0.8353932584269662,
+        "cv_std_accuracy": 0.01594951636694202,
+        "cv_scores": [
+            0.8455056179775281,
+            0.8230337078651685,
+            0.8342696629213483,
+            0.8595505617977528,
+            0.8146067415730337
+        ],
+        "cv_time_sec": 5.3884,
+        "training_time_sec": 1.0456,
+        "prediction_time_sec": 0.0703,
+        "prediction_latency_ms_per_sample": 0.158,
+        "artifact_path": "D:\\IR task2 sathish\\models\\decision_tree_pipeline.joblib"
+    },
+    "K-Nearest Neighbours": {
+        "cv_mean_accuracy": 0.9612359550561796,
+        "cv_std_accuracy": 0.011291995079911106,
+        "cv_scores": [
+            0.9550561797752809,
+            0.9662921348314607,
+            0.9775280898876404,
+            0.9634831460674157,
+            0.9438202247191011
+        ],
+        "cv_time_sec": 3.6444,
+        "training_time_sec": 0.8327,
+        "prediction_time_sec": 0.0922,
+        "prediction_latency_ms_per_sample": 0.207,
+        "artifact_path": "D:\\IR task2 sathish\\models\\k_nearest_neighbours_pipeline.joblib"
+    },
+    "Support Vector Machine": {
+        "cv_mean_accuracy": 0.9848314606741573,
+        "cv_std_accuracy": 0.002864617704265608,
+        "cv_scores": [
+            0.9859550561797753,
+            0.9831460674157303,
+            0.9887640449438202,
+            0.9859550561797753,
+            0.9803370786516854
+        ],
+        "cv_time_sec": 19.5914,
+        "training_time_sec": 12.5751,
+        "prediction_time_sec": 0.5236,
+        "prediction_latency_ms_per_sample": 1.177,
+        "artifact_path": "D:\\IR task2 sathish\\models\\support_vector_machine_pipeline.joblib"
+    },
+    "Multinomial Naive Bayes": {
+        "cv_mean_accuracy": 0.9696629213483146,
+        "cv_std_accuracy": 0.007410621324872416,
+        "cv_scores": [
+            0.9662921348314607,
+            0.9691011235955056,
+            0.9775280898876404,
+            0.9775280898876404,
+            0.9578651685393258
+        ],
+        "cv_time_sec": 2.8637,
+        "training_time_sec": 0.844,
+        "prediction_time_sec": 0.0724,
+        "prediction_latency_ms_per_sample": 0.163,
+        "artifact_path": "D:\\IR task2 sathish\\models\\multinomial_naive_bayes_pipeline.joblib"
+    }
+}
